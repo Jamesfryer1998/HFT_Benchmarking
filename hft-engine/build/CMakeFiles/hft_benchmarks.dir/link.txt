@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -O3 -march=native -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hft_benchmarks.dir/benchmarks/bench_order_book.cpp.o CMakeFiles/hft_benchmarks.dir/benchmarks/bench_latency.cpp.o -o hft_benchmarks  libhft_engine_lib.a _deps/benchmark-build/src/libbenchmark.a

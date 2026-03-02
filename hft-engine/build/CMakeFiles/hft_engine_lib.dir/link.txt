@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhft_engine_lib.a CMakeFiles/hft_engine_lib.dir/src/order_book.cpp.o CMakeFiles/hft_engine_lib.dir/src/matching_engine.cpp.o CMakeFiles/hft_engine_lib.dir/src/feed_simulator.cpp.o
+/usr/bin/ranlib libhft_engine_lib.a
